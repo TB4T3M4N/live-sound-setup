@@ -10,7 +10,6 @@ Update this list when something is added, retired, or fails. Quantities and mode
 | Mics | Shure BLX1288/P31 Wireless Microphone System | 1 | |
 | Stands | Rockville Pair RVES1 Adjustable Tripod DJ PA Speaker Stands +Carry Bag | 1 | |
 | Table | ALZEROOE Small Metal Folding Table |  | |
-| Cables | XLR |  | Mark the spares |
 | Cables | Yoico 50 Feet Professional Speaker Cables 1/4 Inch Male  | 2 | |
 | Cables | Yoico 100 Feet Professional Speaker Cables 1/4 Inch Male  | 2 | |
 | Cases | DURATOOL - 22-24156 - Storage CASE, 16.5 inch X 28 inch X 7 | 1 | Travel case |

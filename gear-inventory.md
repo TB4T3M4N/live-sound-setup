@@ -1,6 +1,6 @@
 # Gear inventory
 
-Update this list when something is added, retired, or fails. Quantities and model names are placeholders — replace them with what you actually own.
+Update this list when something is added, retired, or fails. Quantities and model names are placeholders, replace them with what you own.
 
 | Category | Item | Qty | Notes (owner, spare, known issue) |
 | --- | --- | --- | --- |

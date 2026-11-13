@@ -9,7 +9,7 @@ Fill this in for your room. Keep it generic enough to share; leave volunteer pho
 - [ ] Walk the wireless and put fresh batteries in packs that will be used
 - [ ] Set a conservative starting gain on spoken-word mics
 - [ ] Check playback from the computer or media player through the mains and any stream mix
-- [ ] Confirm the stream or record feed, if you have one, is actually receiving audio
+- [ ] Confirm the stream or record feed, if you have one, is  receiving audio
 
 ## Suggested input list (edit to match the stage)
 
@@ -26,6 +26,6 @@ Fill this in for your room. Keep it generic enough to share; leave volunteer pho
 
 ## After the service
 
-- [ ] Power down in a safe order (mains last, or per the manufacturer)
-- [ ] Coil cables, stand them where they belong, and note anything that failed
+- [ ] Power down, amp then board
+- [ ] Coil cables, store them where they belong, and note anything that failed
 - [ ] Charge or replace wireless batteries

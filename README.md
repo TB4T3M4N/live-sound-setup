@@ -17,6 +17,3 @@ If you are borrowing these templates, copy a file, fill in your own inventory, a
 2. Before a service or event, copy the matching checklist and walk it in order.
 3. After the show, note anything that failed or should be packed differently.
 
-## What is not in this repo
-
-No client addresses, phone numbers, invoices, unreleased recordings, or passwords for wireless or network gear. Those stay in a private note, not on GitHub.

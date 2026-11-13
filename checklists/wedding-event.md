@@ -1,6 +1,6 @@
 # Wedding or event — input list and checks
 
-Use this for a one-off room: wedding, memorial, or small party. Do not commit the couple's address, floor plan of a private home, or payment details.
+Use this for a one-off room: wedding, memorial, or small party. 
 
 ## Advance (days before)
 
@@ -13,7 +13,7 @@ Use this for a one-off room: wedding, memorial, or small party. Do not commit th
 - [ ] Place mains so they cover the seating, not someone's ears at the front row
 - [ ] Tape or route cables so walkways stay safe
 - [ ] Line-check every mic, DI, and playback path
-- [ ] Agree a cue with the officiant or planner for processional, vows, and speeches
+- [ ] Agree on a cue with the officiant or planner for processional, vows, and speeches
 
 ## Suggested input list
 

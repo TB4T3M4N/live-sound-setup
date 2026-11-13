@@ -2,7 +2,7 @@
 
 Runbooks and checklists I use for church services, weddings, and small events. This is a working handbook, not a product pitch: input lists, a gear inventory, a day-of-show flow, and a short troubleshooting sheet.
 
-If you are borrowing these templates, copy a file, fill in your own inventory, and leave other people's names, addresses, and payment details out of the repo.
+If you are borrowing these templates, copy a file, fill in your own inventory, and leave other people's names, addresses, and payment details out.
 
 ## Contents
 

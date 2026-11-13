@@ -1,6 +1,6 @@
 # Day-of-show runbook
 
-A short flow you can follow when the room is already familiar. Print it or keep it on your phone.
+A short flow you can follow when the room is already familiar.
 
 1. **Arrive and walk the room.** Power, load-in path, and anything that moved since last time.
 2. **Stage the gear.** Mixer in a place you can see the room. Cables routed safely.

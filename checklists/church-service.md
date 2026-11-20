@@ -33,31 +33,54 @@ if the 3 wireless are muted they do not have to be second, but the board must be
 - [ ] First song may complete or could stop partially from not being able to hear, go over with everyone using in-ears for if they need more or less from every member
 - [ ] First song will restart and should complete the 2nd time. After 2nd run confirm with everyone that everything is audible
 - [ ] Proceed with other 4 songs, fine tuning peoples in-ears and room setup
+- [ ] Use the 4 songs to listen to the steams setup, make sure everything is audible on the stream return
+- [ ] Put out Preacher Microphone and Remote clicker, put handheld mic in stand up by stage
+- [ ] PC Operator should have gone through the PowerPoint with the songs as they played, making changes and corrections to the Song slides as they come
+- [ ] PC Operator should setup stream title for Facebook stream
+- [ ] After the 5 songs have completed PC Operator can start playing Spotify playlist
+- [ ] Discuss with PC Operator which countdown video we want to play, get worship leaders input if readily available
 ## Sunday Service
-- [ ] a
+- [ ] 9:45-9:50 Swap Camcorder battery to full charge
+- [ ] 9:50 Pastor/Speaker should start a prayer around 9:50, hopefully sooner
+- [ ] 9:53 If prayer goes long booth should step away respectfully at 9:53
+- [ ] 9:53 PC Operator can start the OBS Stream if they did not earlier
+- [ ] 9:55 setup OBS on steam layout and open camcorder
+- [ ] 9:56 PC Operator can pause spotify, play the 5min countdown picked earlier
+- [ ] 10:00 Countdown has 1 min left, band is getting set up on stage
+- [ ] 10:01 Countdown ends and service starts
+- [ ] Worship leader will welcome and invite everyone to worship and start first 3 songs
+- [ ] Use the first song to fine tune the room and the stream, in levels of importance the room is more important then the stream by a thin margin
+- [ ] After 3 songs there will be announcements
+changing the camcorder is optional, depending on the layout you may luck out and it does not need to be edited, if unlucky then after the 3rd song while announcer is walking up Block obs and zoom in the camcorder, use a speaking layout on obs, after the prayer at the end of announcements Block obs and go back to your original zoom covering the band.
+- [ ] One more song before the sermon
+- [ ] After 4th song switch OBS and zoom in the camcorder to where the speaker will stand
+- [ ] Preacher/Speaker will conduct their Sermon
+- [ ] After the "thought for the drive home" Block OBS and zoom out to the original zoom covering the band
+- [ ] Last song is played
+- [ ] After last song
 
 
 ## Suggested input list (edit to match the stage)
 
-| Ch | Purpose |    | I/O Output | Ch | Purpose |
-| --- | --- | --- | --- | --- | --- |
-| SB1IP1 | Piano |  |  | 1 | Main Vocal |
-| SB1IP2 | Drums |  |  | 2 | 2nd Vocal |
-| SB1IP3 | Guitar 1 |  |  | 3 |  |
-| SB1IP4 | Guitar 2 |  |  | 4 |  |
-| SB1IP5 | Piano Vocals |  |  | 5 |  |
-| SB1IP6 | Guitar 1 Vocals |  |  | 6 |  |
-| SB1IP7 | Spare |  |  | 7 |  |
-| SB1IP8 | Spare |  |  | 8 |  |
-|  |  |  |   | 9 |  |
-| SB2IP1 | Guitar 2 |  |  | 10 |  |
-| SB2IP2 | Bass |  |  | 11 |  |
-| SB2IP3 | Vocalist 1 |  |  | 12 |  |
-| SB2IP4 | Vocalist 2 |  |  | 13 |  |
-| SB2IP5 | Spare |  |  | 14 | |
-| SB2IP6 | Spare |  |  | 15 | Audience mic |
-| SB2IP7 | Spare |  |  | 16 | FX |
-| SB2IP8 | LOCKED |  |  | | |
+|Stage Boxes| Ch | Purpose |    | I/O Output | Ch | Purpose |
+| --- | --- | --- | --- | --- | --- | --- |
+| | SB1IP1 | Piano |  |  | 1 | Main Vocal |
+| | SB1IP2 | Drums |  |  | 2 | 2nd Vocal |
+| | SB1IP3 | Guitar 1 |  |  | 3 |  |
+| | SB1IP4 | Guitar 2 |  |  | 4 |  |
+| | SB1IP5 | Piano Vocals |  |  | 5 |  |
+| | SB1IP6 | Guitar 1 Vocals |  |  | 6 |  |
+| | SB1IP7 | Spare |  |  | 7 |  |
+| | SB1IP8 | Spare |  |  | 8 |  |
+| |  |  |  |   | 9 |  |
+| | SB2IP1 | Guitar 2 |  |  | 10 |  |
+| | SB2IP2 | Bass |  |  | 11 |  |
+| | SB2IP3 | Vocalist 1 |  |  | 12 |  |
+| | SB2IP4 | Vocalist 2 |  |  | 13 |  |
+| | SB2IP5 | Spare |  |  | 14 | |
+| | SB2IP6 | Spare |  |  | 15 | Audience mic |
+| | SB2IP7 | Spare |  |  | 16 | FX |
+| | SB2IP8 | LOCKED |  |  | | |
 
 
 

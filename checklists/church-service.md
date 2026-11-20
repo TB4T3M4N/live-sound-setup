@@ -65,6 +65,7 @@ if the 3 wireless are muted they do not have to be second, but the board must be
 ## I/O order
 
 | Ch | Purpose |
+| --- | --- |
 | 1 | Main Vocal | 
 | 2 | 2nd Vocal |
 | 3 | |

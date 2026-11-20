@@ -32,9 +32,9 @@ if the 3 wireless are muted they do not have to be second, but the board must be
 - [ ] Worship leader will start off with a prayer and then will start the first song, use that first song to go over any changes to the libraries for the band, get the levels setup for the instruments and then the vocalists
 - [ ] First song may complete or could stop partially from not being able to hear, go over with everyone using in-ears for if they need more or less from every member
 - [ ] First song will restart and should complete the 2nd time. After 2nd run confirm with everyone that everything is audible
-- [ ] Proceed with other 4 songs, fine tuning people in-ears and room setup
+- [ ] Proceed with other 4 songs, fine tuning peoples in-ears and room setup
 ##Sunday Service
-- [ ] 
+- [ ] a
 
 
 ## Suggested input list (edit to match the stage)

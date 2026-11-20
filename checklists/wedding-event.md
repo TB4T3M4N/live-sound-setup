@@ -19,12 +19,13 @@ Use this for a one-off room: wedding, memorial, or small party.
 
 | Ch | Source | Mic / DI | Notes |
 | --- | --- | --- | --- |
-| 1 | Officiant | | |
-| 2 | Reader or handheld | | |
-| 3 | Playback L | | Ceremony playlist |
-| 4 | Playback R | | |
-| 5 | Speech mic | | Reception |
-| 6 | Spare | | |
+| 1 | Wireless Microphone | BLX1288/P31 | |
+| 2 | Live Music Vocal | | |
+| 3 | Live Music Vocal 2 | | |
+| 4 | Live Music Vocal 3 | | |
+| 5/6 | Live Music Instrument 1 | Piano dual output or separate mixing pedal from a guitar | |
+| 7/8 | Live Music Instrument 2/3 | separate dual channel mixing board for 2 guitars or other inputs | |
+| 9/10 | Music | Phone Bluetooth/Wired 3.6mm headphone jack | Ceremony Playlist |
 
 ## Load-out
 

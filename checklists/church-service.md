@@ -35,7 +35,7 @@ if the 3 wireless are muted they do not have to be second, but the board must be
 - [ ] Proceed with other 4 songs, fine tuning peoples in-ears and room setup
 
 
-##Sunday Service
+## Sunday Service
 - [ ] a
 
 

@@ -58,7 +58,6 @@ if the 3 wireless are muted they do not have to be second, but the board must be
 | SB2IP6 | Spare |  |  | 15 | Audience mic |
 | SB2IP7 | Spare |  |  | 16 | FX |
 | SB2IP8 | LOCKED |  |  | | |
-| --- | --- | --- | --- | --- | --- |
 
 
 

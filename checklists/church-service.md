@@ -39,8 +39,8 @@ if the 3 wireless are muted they do not have to be second, but the board must be
 
 ## Suggested input list (edit to match the stage)
 
-| Ch | Purpose |      | I/O Output | Ch | Purpose |
-| --- | --- |    | --- | --- | --- |
+| Ch | Purpose |    | I/O Output | Ch | Purpose |
+| --- | --- | --- | --- | --- | --- |
 | SB1IP1 | Piano |    | 1 | Main Vocal |
 | SB1IP2 | Drums |    | 2 | 2nd Vocal |
 | SB1IP3 | Guitar 1 |    | 3 |  |
@@ -49,7 +49,7 @@ if the 3 wireless are muted they do not have to be second, but the board must be
 | SB1IP6 | Guitar 1 Vocals |    | 6 |  |
 | SB1IP7 | Spare |    | 7 |  |
 | SB1IP8 | Spare |    | 8 |  |
-| --- | --- |     | 9 |  |
+|  |  |     | 9 |  |
 | SB2IP1 | Guitar 2 |    | 10 |  |
 | SB2IP2 | Bass |    | 11 |  |
 | SB2IP3 | Vocalist 1 |    | 12 |  |
@@ -58,7 +58,7 @@ if the 3 wireless are muted they do not have to be second, but the board must be
 | SB2IP6 | Spare |    | 15 | Audience mic |
 | SB2IP7 | Spare |    | 16 | FX |
 | SB2IP8 | LOCKED |    | | |
-| --- | --- |    | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 
 
 

@@ -11,4 +11,4 @@ A short flow you can follow when the room is already familiar.
 7. **Show.** Watch the room, not only the meters. Ride spoken-word mics.
 8. **Strike.** Power down safely, pack against the inventory, write one note about what to fix.
 
-If something fails during the show, take a breath, mute the bad channel, and swap a cable or mic before you start changing a lot of settings.
+If something fails during the show, mute the bad channel, and swap a cable or mic before you start changing a lot of settings.

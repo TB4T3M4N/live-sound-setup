@@ -33,6 +33,8 @@ if the 3 wireless are muted they do not have to be second, but the board must be
 - [ ] First song may complete or could stop partially from not being able to hear, go over with everyone using in-ears for if they need more or less from every member
 - [ ] First song will restart and should complete the 2nd time. After 2nd run confirm with everyone that everything is audible
 - [ ] Proceed with other 4 songs, fine tuning peoples in-ears and room setup
+
+
 ##Sunday Service
 - [ ] a
 

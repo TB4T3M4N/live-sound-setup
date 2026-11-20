@@ -41,23 +41,23 @@ if the 3 wireless are muted they do not have to be second, but the board must be
 
 | Ch | Purpose |    | I/O Output | Ch | Purpose |
 | --- | --- | --- | --- | --- | --- |
-| SB1IP1 | Piano |    | 1 | Main Vocal |
-| SB1IP2 | Drums |    | 2 | 2nd Vocal |
-| SB1IP3 | Guitar 1 |    | 3 |  |
-| SB1IP4 | Guitar 2 |    | 4 |  |
-| SB1IP5 | Piano Vocals |    | 5 |  |
-| SB1IP6 | Guitar 1 Vocals |    | 6 |  |
-| SB1IP7 | Spare |    | 7 |  |
-| SB1IP8 | Spare |    | 8 |  |
-|  |  |     | 9 |  |
-| SB2IP1 | Guitar 2 |    | 10 |  |
-| SB2IP2 | Bass |    | 11 |  |
-| SB2IP3 | Vocalist 1 |    | 12 |  |
-| SB2IP4 | Vocalist 2 |    | 13 |  |
-| SB2IP5 | Spare |    | 14 | |
-| SB2IP6 | Spare |    | 15 | Audience mic |
-| SB2IP7 | Spare |    | 16 | FX |
-| SB2IP8 | LOCKED |    | | |
+| SB1IP1 | Piano |  |  | 1 | Main Vocal |
+| SB1IP2 | Drums |  |  | 2 | 2nd Vocal |
+| SB1IP3 | Guitar 1 |  |  | 3 |  |
+| SB1IP4 | Guitar 2 |  |  | 4 |  |
+| SB1IP5 | Piano Vocals |  |  | 5 |  |
+| SB1IP6 | Guitar 1 Vocals |  |  | 6 |  |
+| SB1IP7 | Spare |  |  | 7 |  |
+| SB1IP8 | Spare |  |  | 8 |  |
+|  |  |  |   | 9 |  |
+| SB2IP1 | Guitar 2 |  |  | 10 |  |
+| SB2IP2 | Bass |  |  | 11 |  |
+| SB2IP3 | Vocalist 1 |  |  | 12 |  |
+| SB2IP4 | Vocalist 2 |  |  | 13 |  |
+| SB2IP5 | Spare |  |  | 14 | |
+| SB2IP6 | Spare |  |  | 15 | Audience mic |
+| SB2IP7 | Spare |  |  | 16 | FX |
+| SB2IP8 | LOCKED |  |  | | |
 | --- | --- | --- | --- | --- | --- |
 
 
